@@ -22,15 +22,20 @@ He Zhuoshu is PhD candidate in Department of Architecture, College of Design and
 - **Street and public space:** interaction of different social groups in public space, street network and interface, urban design programming for sharing cities
 - **conservation planning:** values and challenges of modern built heritage from urban perspectives, urban morphology of historic districts 
 
+#### Education
+
+*PhD Candidate*, National University of Singapore (NUS), 2020-2026\
+*Guest researcher of spatial planning and strategy*, Delft University of Technology (TUDelft), The Netherlands, 2024-2025\
+*Master of Urban Planning*, the State University of New York at Buffalo (UB-SUNY), 2016-2018\
+*B.Eng in Urban Planning*, South China University of Technology (SCUT), Guangzhou, 2009-2014
+
+#### Professional Experience
+
+*Tutor (Full-time Educator Track)*, Master of Arts in Urban Design (MAUD), Department of Architecture, College of Design and Engineering, NUS, 10/2020-01/2024\
+*Research Associate (Full-time)*, School of Social Science, Singapore Management University, 06/2020-09/2020\
+*Research Assistant (Full-time)*, Department of Architecture, School of Design and Environment, NUS, 10/2018-05/2020\
+*Assistant Urban Planner*, Research Center of Architectural History and Culture, SCUT, 02/2014-07/2015
+
 #### Contact
 
 Email: zhuoshuhe[at]u.nus.edu
-
-#### Education
-
-*PhD Candidate*, National University of Singapore, 2020-2026\
-*Guest researcher of spatial planning and strategy*, Delft University of Technology, The Netherlands, 2024-2025\
-*Master of Urban Planning*, the State University of New York at Buffalo, 2016-2018\
-*B.Eng in Urban Planning*, South China University of Technology, Guangzhou, 2009-2014
-
-
