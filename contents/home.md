@@ -1,4 +1,4 @@
-<p style="display: flex; align-items: center; gap: 30px;">
+<p style="display: flex; align-items: center; gap: 20px;">
 
   <a href="https://www.linkedin.com/in/zhuoshuhe/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <img src="/static/assets/icons/linkedin.svg" alt="LinkedIn" width="24" height="24">
