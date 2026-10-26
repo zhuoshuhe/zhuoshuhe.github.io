@@ -1,8 +1,10 @@
-#### Peer-Reviewed Journal Articles
+
 
 - **He, Z.** & Zhang, Y.<sup>*</sup> (2025). Connecting built form diversity and housing mix with refining diversity measurement under the general framework. *Cities*, 166. [[DOI]](https://doi.org/10.1016/j.cities.2025.106243)
-- 刘滟菡, **何卓书** & 张烨. (2025). 新加坡综合性大学校园步行空间的设计特征. *风景园林*, 32(12), 96-104. [[DOI]](https://doi.org/10.3724/j.fjyl.LA20250341) 
-- 
+- 刘滟菡, **何卓书<sup>*</sup>** & 张烨. (2025). 新加坡综合性大学校园步行空间的设计特征. *风景园林*, 32(12), 96-104. (Design characteristics of campus pedestrian spaces of comprehensive universities in Singapore) [[DOI]](https://doi.org/10.3724/j.fjyl.LA20250341) 
+- **He, Z.** & Zhang, Y.<sup>*</sup> (2024). Dockless bike sharing in Singapore: perceptions of stakeholders, tensions of management, and implications for the public space. *Journal of Urbanism*. [[DOI]](http://doi.org/10.1080/17549175.2024.2355331)
+- 魏成, 谭景柏, 沈静, 张俊 & **何卓书<sup>*</sup>**. (2024). 创新导向下的新加坡纬壹科技城开发理念与规划管控实践. *规划师*, 31(6), 81-87. [[Paper]](http://www.planners.com.cn/magazine/article/3948.html)
+- **何卓书** & 涂若翔. (2023). 广州现代庭园建筑的价值与挑战 - 基于历史建筑保护体系的讨论. *建筑遗产*, 8(3), 15-25.
 
 #### Book Chapters / Conference Proceedings (peer-reviewed)
 
