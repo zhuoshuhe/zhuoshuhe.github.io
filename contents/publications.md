@@ -1,6 +1,7 @@
 #### Peer-Reviewed Journal Articles
 
-- **He, Z.** & Zhang, Y.<sup>*</sup> (2025). Connecting built form diversity and housing mix with refining diversity measurement under the general framework. Cities, 166. [[DOI]](https://doi.org/10.1016/j.cities.2025.106243)
+- **He, Z.** & Zhang, Y.<sup>*</sup> (2025). Connecting built form diversity and housing mix with refining diversity measurement under the general framework. *Cities*, 166. [[DOI]](https://doi.org/10.1016/j.cities.2025.106243)
+- 刘滟菡, **何卓书** & 张烨. (2025). 新加坡综合性大学校园步行空间的设计特征. *风景园林*, 32(12), 96-104. [[DOI]](https://doi.org/10.3724/j.fjyl.LA20250341) 
 - 
 
 #### Book Chapters / Conference Proceedings (peer-reviewed)
