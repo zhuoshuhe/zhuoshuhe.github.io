@@ -1,15 +1,15 @@
 <p style="display: flex; align-items: center; gap: 30px;">
 
   <a href="https://www.linkedin.com/in/zhuoshuhe/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/linkedin.svg" alt="LinkedIn" width="24" height="24">
+    <img src="/static/assets/icons/linkedin.svg" alt="LinkedIn" width="24" height="24">
   </a>
 
   <a href="https://scholar.google.com/citations?user=Cm_pnh4AAAAJ" target="_blank" rel="noopener noreferrer" title="Google Scholar">
-    <img src="https://cdn.simpleicons.org/googlescholar/000000" alt="Google Scholar" width="24" height="24">
+    <img src="/static/assets/icons/googlescholar.svg" alt="Google Scholar" width="24" height="24">
   </a>
 
    <a href="https://orcid.org/0000-0003-0499-7111" target="_blank" rel="noopener noreferrer" title="ORCID">
-    <img src="https://cdn.simpleicons.org/orcid/000000" alt="ORCID" width="24" height="24">
+    <img src="/static/assets/icons/orcid.svg" alt="ORCID" width="24" height="24">
   </a>
 
 </p>
