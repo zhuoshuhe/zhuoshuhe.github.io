@@ -1,19 +1,17 @@
-
+#### Peer-reviewed Journal Articles
 
 - **He, Z.** & Zhang, Y.<sup>*</sup> (2025). Connecting built form diversity and housing mix with refining diversity measurement under the general framework. *Cities*, 166. [[DOI]](https://doi.org/10.1016/j.cities.2025.106243)
-- 刘滟菡, **何卓书<sup>*</sup>** & 张烨. (2025). 新加坡综合性大学校园步行空间的设计特征. *风景园林*, 32(12), 96-104. (Design characteristics of campus pedestrian spaces of comprehensive universities in Singapore) [[DOI]](https://doi.org/10.3724/j.fjyl.LA20250341) 
+- 刘滟菡, **何卓书<sup>*</sup>** & 张烨. (2025). 新加坡综合性大学校园步行空间的设计特征. *风景园林*, 32(12), 96-104. (Design characteristics of campus pedestrian spaces of comprehensive universities in Singapore) [[DOI]](https://doi.org/10.3724/j.fjyl.LA20250341) [[Paper]](http://www.lalavision.com/article/doi/10.3724/j.fjyl.LA20250341)
 - **He, Z.** & Zhang, Y.<sup>*</sup> (2024). Dockless bike sharing in Singapore: perceptions of stakeholders, tensions of management, and implications for the public space. *Journal of Urbanism*. [[DOI]](http://doi.org/10.1080/17549175.2024.2355331)
-- 魏成, 谭景柏, 沈静, 张俊 & **何卓书<sup>*</sup>**. (2024). 创新导向下的新加坡纬壹科技城开发理念与规划管控实践. *规划师*, 31(6), 81-87. [[Paper]](http://www.planners.com.cn/magazine/article/3948.html)
-- **何卓书** & 涂若翔. (2023). 广州现代庭园建筑的价值与挑战 - 基于历史建筑保护体系的讨论. *建筑遗产*, 8(3), 15-25.
+- 魏成, 谭景柏, 沈静, 张俊 & **何卓书<sup>*</sup>**. (2024). 创新导向下的新加坡纬壹科技城开发理念与规划管控实践. *规划师*, 31(6), 81-87. (Development concepts and planning control practices of Singapore's One-North under innovation orientation) [[Paper]](http://www.planners.com.cn/magazine/article/3948.html)
+- **何卓书** & 涂若翔. (2023). 广州现代庭园建筑的价值与挑战 - 基于历史建筑保护体系的讨论. *建筑遗产*, 8(3), 15-25. (Values and challenges of modern landscaping architecture in Guangzhou: through the lens of historic building conservation) [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=ebmZV7IQtJkgGFsHij0Cj58ffOsp-jeHRWjqGd81CR3kD0jD7lKYkGzgKIZY-wwueCWbNAFCkAt0BUomiBvOlcqmCvHtGoomWHnNTFv8Ug-NylbaaNrOkL-CDCjwzJV82KHndA0vKXJ-y4FtAWXiVEHFowCmQNbdYqniEv6DmJI=&uniplatform=NZKPT)
+- **何卓书**. (2020). 国外自行车友好设施规划设计的研究与实践. *上海城市规划*, 30(4), 113-119. (International practice and research in planning and design of cycling-friendly infrastructures) [[Paper]](https://www.shplanning.com.cn/archive/download/id/885.html)
+- **何卓书**, 许欢 & 黄俊浩. (2016). 基于空间句法的历史街区商业空间分布研究——以广州长寿路站周边街区为例. *南方建筑*, 36(5), 84-89. (Commercial distribution research of historic area based on Space Syntax: a case study of historic area surrounded Changshoulu Station in Guangzhou) [[Paper]](https://nfjz.arch.scut.edu.cn/EN/10.3969/j.issn.1000-0232.2016.05.084)
+- **何卓书**, 郑巧雁 & 沈欣欣. (2016). 轨道交通介入的历史街区空间形态演变探析——以广州长寿路站周边街区为例. *四川建筑*, 36(5), 33-36. (Urban form evolution of historic area intervened by metro station: a case study of the area surrounded Changshoulu station) [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=ebmZV7IQtJmGgrt0m6emKUTVkBalVuJacvMeXD9I_2GMr6LyOgZOXdsVM2xFXmtvMpp5GHNNl56SnU1Jl4tCvBw68KzXMNc5MLLTymf4YE7zBCWUfjyKkT_deekKITTs5WUBk_qQ3v-u9KyAkNfcJEOzm_U_nnOAAm6IDgfon-8=&uniplatform=NZKPT)
+- **何卓书** & 文思扬. (2012). 浅析中国国家博物馆与首都博物馆的设计特点. *广西城镇建设*, 2012(05), 72-76. [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=ebmZV7IQtJlZr45umupsrNgFNQQyUJ7k5qTa7PCzrAOFz-TuKdpZHzSn8TeMzrj5oEgMI2wPIcc6HQNI1X3GFBY5O1IpwBuiYZEUeOY3f0vfz_seSlhXm4fooUF-eiIQd8JkMjZH76j3Z12QI-PUFL2nnHRRyMA8&uniplatform=NZKPT)
 
-#### Book Chapters / Conference Proceedings (peer-reviewed)
+#### Book Chapters / Conference Proceedings (Peer-reviewed)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- **He, Z.** & Zhang, Y. (2023). Measuring built form diversity for housing tenure mix: testing measures at seven wards, London. in: *Praxis of Urban Morphology: XXX Conference of the International Seminar on Urban Form (ISUF)*, Belgrade, Serbia, pp. 412-429.
+- **He, Z.** & Zhang, Y. (2023). Diversity of built form: Is it and its relations with other dimensions of diversity well-measured? in: Qu, L., van Dorst, M. (Eds.), *From Dichotomies to Dialogues: Connecting Discourses for a Sustainable Urbanism: Proceedings of the 14th Conference of the International Forum on Urbanism (IFoU)*. TU Delft OPEN Publishing, Delft, The Netherlands, pp. 189-195. [[DOI]](https://doi.org/10.24404/6156d4c081455e00084986e3)
+- **He, Z.** & Zhang, Y. (2020). Dockless bike-sharing and its relations with public spaces: what does media news tell us? in: Ding, W., Luo, Z., Huang, H. & Zhou, L. (Eds.), Urbanism in the Mobile Internet Era: Proceedings of the 13th Conference of the International Forum on Urbanism (IFoU), Nanjing, China, pp. 183-196. 
