@@ -30,7 +30,7 @@ Email: zhuoshuhe[at]u.nus.edu
 
 *PhD Candidate*, National University of Singapore, 2020-2026
 
-*Guest researcher of spatial planning and strategy*, Delft University of Technology, 2024-2025
+*Guest researcher of spatial planning and strategy*, Delft University of Technology, The Netherlands, 2024-2025
 
 *Master of Urban Planning*, the State University of New York at Buffalo, 2016-2018 
 
