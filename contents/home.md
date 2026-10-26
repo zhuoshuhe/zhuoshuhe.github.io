@@ -1,19 +1,6 @@
-TEST MARKDOWN
-
-**TEST BOLD**
-
-<strong>HTML TEST</strong>
-
-<p style="display: flex; align-items: center; gap: 18px;">
-  <a href="https://orcid.org/0000-0003-0499-7111" target="_blank" rel="noopener noreferrer" title="ORCID" aria-label="ORCID">
-    <i class="bi bi-person-badge" style="font-size: 1.4rem;"></i>
-  </a>
-  <a href="https://www.linkedin.com/in/zhuoshuhe/" target="_blank" rel="noopener noreferrer" title="LinkedIn" aria-label="LinkedIn">
-    <i class="bi bi-linkedin" style="font-size: 1.4rem;"></i>
-  </a>
-  <a href="https://scholar.google.com/citations?user=Cm_pnh4AAAAJ" target="_blank" rel="noopener noreferrer" title="Google Scholar" aria-label="Google Scholar">
-    <i class="bi bi-mortarboard-fill" style="font-size: 1.4rem;"></i>
-  </a>
+<p>
+  LinkedIn:
+  <i class="bi bi-linkedin" style="font-size: 24px; color: #0A66C2;"></i>
 </p>
 
 He Zhuoshu is PhD candidate in Department of Architecture, College of Design and Engineering, National University of Singapore, where he served as PhD Representative of the department in 2023–2024. His research employs mixed methods to explore the complex relations between urban form, urban functions, and socioeconomic outcome. Zhuoshu seeks new perspectives and possibilities by critically examining the tensions and complexities underlying urban issues, while remaining reflective about prevailing concepts.
