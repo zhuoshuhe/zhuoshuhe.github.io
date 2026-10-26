@@ -1,6 +1,8 @@
-<strong>HTML TEST</strong>
+TEST MARKDOWN
 
-<i class="bi bi-linkedin" style="font-size: 24px;"></i>
+**TEST BOLD**
+
+<strong>HTML TEST</strong>
 
 <p style="display: flex; align-items: center; gap: 18px;">
   <a href="https://orcid.org/0000-0003-0499-7111" target="_blank" rel="noopener noreferrer" title="ORCID" aria-label="ORCID">
