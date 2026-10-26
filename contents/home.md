@@ -18,9 +18,9 @@ He Zhuoshu is PhD candidate in Department of Architecture, College of Design and
 
 #### Research Interests
 
-**Urban diversity:** measuring built form diversity and functional mix, design for social mix and housing tenure mix\
-**Street and public space:** interaction of different social groups in public space, street network and interface, urban design programming for sharing cities\
-**conservation planning:** values and challenges of modern built heritage from urban perspectives, urban morphology of historic districts 
+- **Urban diversity:** measuring built form diversity and functional mix, design for social mix and housing tenure mix
+- **Street and public space:** interaction of different social groups in public space, street network and interface, urban design programming for sharing cities
+- **conservation planning:** values and challenges of modern built heritage from urban perspectives, urban morphology of historic districts 
 
 #### Contact
 
