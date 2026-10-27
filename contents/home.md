@@ -17,7 +17,7 @@ He Zhuoshu is PhD candidate in Department of Architecture, College of Design and
 
 #### Professional Experience
 
-*Tutor (Full-time Educator Track)*, Master of Arts in Urban Design (MAUD), Department of Architecture, College of Design and Engineering, NUS, 10/2020-01/2024\
+*Tutor (Full-time Educator Track)*, Master of Arts in Urban Design (MAUD) Program, Department of Architecture, College of Design and Engineering, NUS, 10/2020-01/2024\
 *Research Associate (Full-time)*, School of Social Science, Singapore Management University, 06/2020-09/2020\
 *Research Assistant (Full-time)*, Department of Architecture, School of Design and Environment, NUS, 10/2018-05/2020\
 *Assistant Urban Planner*, Research Center of Architectural History and Culture, SCUT, 02/2014-07/2015
