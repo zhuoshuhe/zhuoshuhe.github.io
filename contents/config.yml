@@ -22,7 +22,7 @@ sections:
     nav: PUBLICATIONS
     title: PUBLICATIONS
     icon: bi-file-text-fill
-  - id: awards
-    nav: AWARDS
-    title: AWARDS
-    icon: bi-award-fill
+  - id: experiences
+    nav: EXPERIENCES
+    title: EXPERIENCES
+    icon: bi-briefcase-fill
