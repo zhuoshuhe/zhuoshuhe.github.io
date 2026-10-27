@@ -1,6 +1,6 @@
 
 
-#### Research & Planning Project Experiences
+### Research & Planning Project Experiences
 
 **Placemaking with intergenerational game installations for a HDB common space in Clementi**\
 *Sponsor: Lively Place Challenge, Housing Development Board Singapore | 2026*
@@ -59,7 +59,7 @@
 
 ### Teaching
 
-##### Course and Studio Teaching
+#### Course and Studio Teaching
 
 **DEP5104/UD5626: Urban and Regional Economics (NUS)**\
 *MUP & MAUD required course | Instructor: Dr. FU Yuming*
@@ -87,9 +87,45 @@
 
 - *Teaching Assistant* | Spring 2015 | 8 Students | Project: conservation planning of urban areas with historic building clusters, Guangzhou
 
-##### Guest Review/Crit, Tutoring and Invited Talks
+#### Guest Review/Crit, Tutoring, and Invited Talks
+
+**Guest Reviewer for Studio or Course**
+
+- NUS MAUD, MUP and Tsinghua MArch joint studio (2026)
+- 3rd Year Environmental Design Studio, Macau University of Science and Technology (2025)
+- Conviviality by Design Public Space (undergraduate elective), Tsinghua (2025)
+- MArch core studio, Tsinghua (2025)
+- Master-level architecture research, Harbin Institute of Technology, Shenzhen (2023)
+- MAUD urban design studios, NUS (2023; 2022)
+- Principles of Sustainable Urbanism (graduate-level course), NUS (2023)
+
+**Tutor of Workshop and Fieldtrip**
+
+- NUS MAUD & Meiji University IAUD joint workshop and field trip (Tokyo, 2022; Singapore, 2022)
+- NUS MArch & Tsinghua EPMA joint workshop and field trip (Beijing, 2020)
+
+**Invited Talks**
+
+- 11th International Young Scholar Forum of Tongji University, College of Architectture and Urban Planning Forum Session, Shanghai (2026)
+- 40th Junior Scholar Forum, School of Architecture and Planning, Nanjing University (2025)
+- Urban Architecture Lab Seminar, Southeast University, Nanjing (2025)
+- Spatial Planning & Strategy Seminar, Delft University of Technology (2025)
+- School of Architecture, Harbin Institute of Technology, Shenzhen (2023)
+
+### Service
+
+- ***PhD Representative***, Department of Architecture, NUS, 04/2023-07/2024
+- *Advisor to Executive Group*, NUS Department of Architecture PhD Symposium, 2023
+- *Lead of Executive Group*, NUS-SUTD PhD Symposium in Architecture	2022
+- *Coordinator of MAUD Admission*, NUS, 2022&2023
+
+### Awards and Honors
+
+- ***Best Paper Award***, The 13th Conference of International Forum on Urbanism, Nanjing, 2020
+- *Excellence in Studio Award*, School of Architecture and Planning, UB-SUNY, 2018
+- *Teaching Assistantship*, School of Architecture and Planning, UB-SUNY, 2018
+- *Graduate Tuition Scholarship*, School of Architecture and Planning, UB-SUNY, 2016
+- *Outstanding Bachelor’s Project*, School of Architecture, SCUT, 2014
+- *3rd Prize, City Transportation Innovative & Practice Competition*, National Steering Committee of Urban and Rural Planning Education of China, 2013
 
 
-Guest Reviewer for Studio or Course: NUS MAUD, MUP & Tsinghua MArch joint studio (2026) | 3rd Year Environmental Design Studio, Macau University of Science and Technology (2025) | Conviviality by Design Public Space (undergraduate elective), Tsinghua (2025) | MArch core studio, Tsinghua (2025) | Master-level architecture research, Harbin Institute of Technology, Shenzhen (2023) | MAUD urban design studios, NUS (2023; 2022) | Principles of Sustainable Urbanism (graduate-level course), NUS (2023)
-Tutor of Workshop and Fieldtrip: NUS MAUD & Meiji University IAUD joint workshop and field trip (Tokyo, 2022; Singapore, 2022) | NUS MArch & Tsinghua EPMA joint workshop and field trip (Beijing, 2020)
-Invited Talks: 11th International Young Scholar Forum of Tongji University, CAUP Forum Session, Shanghai. (2026) | 40th Junior Scholar Forum, School of Architecture and Planning, Nanjing University. (2025) | Urban Architecture Lab Seminar, Southeast University, Nanjing. (2025) | Spatial Planning & Strategy Seminar, Delft University of Technology. (2025) | School of Architecture, Harbin Institute of Technology, Shenzhen. (2023)
