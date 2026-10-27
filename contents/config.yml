@@ -2,10 +2,13 @@ title: He Zhuoshu's Homepage
 page-top-title: He Zhuoshu
 top-section-bg-text: Urban Morphology, Social Mix, Urban Design
 backgrounds:
-  - static/assets/background/background_0.jpeg
-  - static/assets/background/background_1.jpeg
-background-interval-ms: 7000
-background-overlay: 0.52
+  - static/assets/background/banner1.jpg
+  - static/assets/background/banner2.jpg
+  - static/assets/background/banner5.jpg
+  - static/assets/background/banner4.jpg
+  - static/assets/background/banner3.jpg
+background-interval-ms: 3000
+background-overlay: 0.50
 copyright-text: '&copy; He Zhuoshu 2026. All Rights Reserved.'
 github-link:
   text: Github
