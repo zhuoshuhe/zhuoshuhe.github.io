@@ -183,6 +183,12 @@ section .main-body {
     text-align: justify;
 }
 
+/* Inter font for body text only */
+section .main-body p,
+section .main-body li {
+    font-family: "Inter", Arial, sans-serif;
+}
+
 /* Content column: 80% of the viewport on large screens (10% whitespace
    each side), capped at 1200px for readability on very wide screens.
    Bootstrap's own caps are 960/1140/1320px at lg/xl/xxl. */
