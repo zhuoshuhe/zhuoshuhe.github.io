@@ -57,5 +57,39 @@
 
 - *Principle Investigator* 
 
-#### Teaching
+### Teaching
 
+##### Course and Studio Teaching
+
+**DEP5104/UD5626: Urban and Regional Economics (NUS)**\
+*MUP & MAUD required course | Instructor: Dr. FU Yuming*
+
+- *Teaching Assistant* | Fall 2021 | 56 students
+
+**AR5802: Optional Design Research Studio 2 (NUS)**\
+*Master of Architecture required studio ｜ Instructor: Dr. ZHANG Ye*
+
+- *Teaching Assistant* | Spring 2020 | 8 Students | Project: sharing cities urban design of People's Park Complex and Golden Mile Complex, Singapore
+- *Teaching Assistant* | Spring 2019 | 10 Students | Project: sharing cities urban design of Chinatown and Pearl's Hill, Singapore
+
+**END 360: Environmental Design Workshop (UB-SUNY)**\
+*Bachelor of Environmental Design required studio | Instructor: Prof. Hiroaki Hata*
+
+- *Teaching Assistant* | Spring 2018 | 31 Students | Project: University Height Neighborhood Greenspace Plan, Buffalo NY
+
+**END 360 Lab (UB-SUNY)**\
+*Bachelor of Environmental Design required tutorials of computer programs and diagramming*
+
+- *Instructor* | Spring 2018 | 31 Students
+
+**Bachelor’s Graduation Project (SCUT)**\
+*Instructor: Dr. LIU Hui, Dr. ZHANG Zhimin, Dr. LIN Jia & Dr. XUAN Wenhao*
+
+- *Teaching Assistant* | Spring 2015 | 8 Students | Project: conservation planning of urban areas with historic building clusters, Guangzhou
+
+##### Guest Review/Crit, Tutoring and Invited Talks
+
+
+Guest Reviewer for Studio or Course: NUS MAUD, MUP & Tsinghua MArch joint studio (2026) | 3rd Year Environmental Design Studio, Macau University of Science and Technology (2025) | Conviviality by Design Public Space (undergraduate elective), Tsinghua (2025) | MArch core studio, Tsinghua (2025) | Master-level architecture research, Harbin Institute of Technology, Shenzhen (2023) | MAUD urban design studios, NUS (2023; 2022) | Principles of Sustainable Urbanism (graduate-level course), NUS (2023)
+Tutor of Workshop and Fieldtrip: NUS MAUD & Meiji University IAUD joint workshop and field trip (Tokyo, 2022; Singapore, 2022) | NUS MArch & Tsinghua EPMA joint workshop and field trip (Beijing, 2020)
+Invited Talks: 11th International Young Scholar Forum of Tongji University, CAUP Forum Session, Shanghai. (2026) | 40th Junior Scholar Forum, School of Architecture and Planning, Nanjing University. (2025) | Urban Architecture Lab Seminar, Southeast University, Nanjing. (2025) | Spatial Planning & Strategy Seminar, Delft University of Technology. (2025) | School of Architecture, Harbin Institute of Technology, Shenzhen. (2023)
