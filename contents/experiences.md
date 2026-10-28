@@ -67,13 +67,13 @@
 - *Teaching Assistant* | Fall 2021 | 56 students
 
 **AR5802: Optional Design Research Studio 2 (NUS)**\
-*Master of Architecture required studio ｜ Instructor: Dr. ZHANG Ye*
+*Master of Architecture required studio | Instructor: Dr. ZHANG Ye*
 
 - *Teaching Assistant* | Spring 2020 | 8 Students | Project: sharing cities urban design of People's Park Complex and Golden Mile Complex, Singapore
 - *Teaching Assistant* | Spring 2019 | 10 Students | Project: sharing cities urban design of Chinatown and Pearl's Hill, Singapore
 
 **END 360: Environmental Design Workshop (UB-SUNY)**\
-*Bachelor of Environmental Design required studio | Instructor: Prof. Hiroaki Hata*
+*Bachelor of Environmental Design required studio | Instructor: Prof. Hiroaki HATA*
 
 - *Teaching Assistant* | Spring 2018 | 31 Students | Project: University Height Neighborhood Greenspace Plan, Buffalo NY
 
