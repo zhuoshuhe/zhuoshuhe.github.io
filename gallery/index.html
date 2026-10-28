@@ -1,1 +1,402 @@
 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Basic page settings -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gallery | Zhuoshu He</title>
+
+  <!-- Google Font: change Mulish to another font if desired -->
+  <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    /* ===== 1. GLOBAL STYLES ===== */
+    /* Main font, text color, and page background */
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Mulish", Arial, sans-serif;
+      color: #333;
+      background: #fff;
+    }
+
+    /* ===== 2. TOP NAVIGATION ===== */
+    /* Change padding to adjust the header height */
+    .topbar {
+      padding: 22px 7%;
+      border-bottom: 1px solid #eee;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .topbar a {
+      color: #333;
+      text-decoration: none;
+    }
+
+    /* ===== 3. MAIN PAGE LAYOUT ===== */
+    /* max-width controls the overall gallery width */
+    main {
+      max-width: 1250px;
+      margin: 60px auto;
+      padding: 0 30px;
+    }
+
+    h1 {
+      font-size: 2.3rem;
+      font-weight: 600;
+      margin-bottom: 10px;
+    }
+
+    .subtitle {
+      color: #777;
+      margin-bottom: 35px;
+    }
+
+    /* ===== 4. CATEGORY FILTER ===== */
+    /* Adjust spacing and dropdown appearance */
+    .filterbar {
+      margin-bottom: 30px;
+    }
+
+    select {
+      padding: 10px 16px;
+      font: inherit;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      background: white;
+    }
+
+    /* ===== 5. GALLERY GRID ===== */
+    /* Desktop: 4 columns; gap controls spacing */
+    .gallery-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 20px;
+    }
+
+    .gallery-item {
+      cursor: pointer;
+      min-width: 0;
+    }
+
+    /* Square thumbnails; original image ratio is preserved in lightbox */
+    .gallery-item img {
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
+      display: block;
+      border-radius: 3px;
+      transition: opacity 0.2s;
+    }
+
+    /* Hover effect: reduce opacity */
+    .gallery-item:hover img {
+      opacity: 0.8;
+    }
+
+    /* Thumbnail title */
+    .gallery-item h3 {
+      font-size: 0.95rem;
+      font-weight: 600;
+      margin: 10px 0 4px;
+    }
+
+    /* Thumbnail tags */
+    .gallery-item p {
+      font-size: 0.8rem;
+      color: #888;
+      margin: 0;
+    }
+
+    /* ===== 6. LIGHTBOX OVERLAY ===== */
+    /* Full-screen dark background when an image is opened */
+    .lightbox {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.94);
+      z-index: 1000;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      padding: 65px 55px;
+    }
+
+    .lightbox.open {
+      display: flex;
+    }
+
+    /* Preserve original image ratio; never crop enlarged images */
+    .lightbox img {
+      max-width: 100%;
+      max-height: 75vh;
+      width: auto;
+      height: auto;
+      object-fit: contain;
+    }
+
+    /* Caption displayed below enlarged image */
+    .lightbox-caption {
+      color: white;
+      margin-top: 20px;
+      text-align: center;
+    }
+
+    /* Lightbox navigation buttons */
+    .lightbox button {
+      position: absolute;
+      border: 0;
+      background: transparent;
+      color: white;
+      cursor: pointer;
+      font-size: 32px;
+    }
+
+    .close {
+      top: 15px;
+      right: 25px;
+    }
+
+    .prev {
+      left: 15px;
+      top: 50%;
+    }
+
+    .next {
+      right: 15px;
+      top: 50%;
+    }
+
+    /* ===== 7. RESPONSIVE LAYOUT ===== */
+    /* Tablet: 3 columns */
+    @media (max-width: 1100px) {
+      .gallery-grid {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+    }
+
+    /* Small tablet / mobile: 2 columns */
+    @media (max-width: 700px) {
+      .gallery-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 14px;
+      }
+
+      main {
+        margin-top: 35px;
+        padding: 0 18px;
+      }
+
+      .lightbox {
+        padding: 60px 35px;
+      }
+    }
+
+    /* Very narrow phones: 1 column */
+    @media (max-width: 360px) {
+      .gallery-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- ===== 8. TOP NAVIGATION ===== -->
+  <!-- Home link returns to your main academic homepage -->
+  <nav class="topbar">
+    <a href="/">Zhuoshu He</a>
+    <a href="/">← Back to Home</a>
+  </nav>
+
+  <!-- ===== 9. PAGE CONTENT ===== -->
+  <main>
+    <h1>Gallery</h1>
+    <p class="subtitle">Research, design & activity</p>
+
+    <!-- Category dropdown: add new options here -->
+    <div class="filterbar">
+      <label for="filter">Filter by: </label>
+      <select id="filter">
+        <option value="All">All</option>
+        <option value="Research">Research</option>
+        <option value="Design">Design</option>
+        <option value="Drawing">Drawing</option>
+        <option value="Activity">Activity</option>
+      </select>
+    </div>
+
+    <!-- Gallery images are generated by JavaScript -->
+    <div class="gallery-grid" id="gallery"></div>
+  </main>
+
+  <!-- ===== 10. IMAGE LIGHTBOX ===== -->
+  <!-- Enlarged image, caption, and navigation controls -->
+  <div class="lightbox" id="lightbox"
+       role="dialog" aria-modal="true" aria-label="Image viewer">
+
+    <button class="close" id="close" aria-label="Close">×</button>
+    <button class="prev" id="prev" aria-label="Previous image">‹</button>
+
+    <img id="large-image" alt="">
+    <div class="lightbox-caption" id="caption"></div>
+
+    <button class="next" id="next" aria-label="Next image">›</button>
+  </div>
+
+  <script>
+    /* ===== 11. GALLERY IMAGE DATA ===== */
+    /* Add images here. Each image can have multiple tags. */
+    /* src: image file path; title: caption; tags: filter categories */
+
+    const images = [
+      {
+        src: "/static/assets/gallery/kampong_glam.jpg",
+        title: "Kampong Glam, Singapore",
+        tags: ["Drawing"]
+      },
+      {
+        src: "/static/assets/gallery/Long_jin_xi.jpg",
+        title: "Long Jin Xi, Guangzhou",
+        tags: ["Drawing"]
+      },
+      {
+        src: "/static/assets/gallery/tsinghua.jpg",
+        title: "Tsinghua east gate, Beijing",
+        tags: ["Drawing"]
+      },
+      {
+        src: "/static/assets/gallery/jp.jpg",
+        title: "Japan",
+        tags: ["Drawing"]
+      },
+      {
+        src: "/static/assets/gallery/buf.jpg",
+        title: "M&T and The Electric Tower",
+        tags: ["Drawing"]
+      }
+    ];
+
+    /* ===== 12. ELEMENT REFERENCES ===== */
+    /* Connect JavaScript to HTML elements */
+
+    const grid = document.getElementById("gallery");
+    const filter = document.getElementById("filter");
+    const lightbox = document.getElementById("lightbox");
+    const largeImage = document.getElementById("large-image");
+    const caption = document.getElementById("caption");
+
+    let visibleImages = [];
+    let currentIndex = 0;
+
+    /* ===== 13. RENDER GALLERY ===== */
+    /* Filter images and create square thumbnail cards */
+
+    function renderGallery() {
+      const selected = filter.value;
+
+      visibleImages = images.filter(img =>
+        selected === "All" || img.tags.includes(selected)
+      );
+
+      grid.innerHTML = "";
+
+      visibleImages.forEach((img, index) => {
+        const item = document.createElement("div");
+        item.className = "gallery-item";
+
+        const thumbnail = document.createElement("img");
+        thumbnail.src = img.src;
+        thumbnail.alt = img.title;
+        thumbnail.loading = "lazy";
+
+        const title = document.createElement("h3");
+        title.textContent = img.title;
+
+        const tags = document.createElement("p");
+        tags.textContent = img.tags.join(" · ");
+
+        item.append(thumbnail, title, tags);
+        item.addEventListener("click", () => openLightbox(index));
+        grid.appendChild(item);
+      });
+    }
+
+    /* ===== 14. OPEN LIGHTBOX ===== */
+    /* Open the selected image at its original aspect ratio */
+
+    function openLightbox(index) {
+      currentIndex = index;
+      updateLightbox();
+      lightbox.classList.add("open");
+      document.body.style.overflow = "hidden";
+      document.getElementById("close").focus();
+    }
+
+    /* ===== 15. UPDATE LIGHTBOX IMAGE ===== */
+    /* Display the currently selected image and title */
+
+    function updateLightbox() {
+      const img = visibleImages[currentIndex];
+      largeImage.src = img.src;
+      largeImage.alt = img.title;
+      caption.textContent = img.title;
+    }
+
+    /* ===== 16. IMAGE NAVIGATION ===== */
+    /* Cycle through images within the selected category */
+
+    function move(direction) {
+      currentIndex =
+        (currentIndex + direction + visibleImages.length) %
+        visibleImages.length;
+      updateLightbox();
+    }
+
+    /* ===== 17. CLOSE LIGHTBOX ===== */
+    /* Restore normal page scrolling */
+
+    function closeLightbox() {
+      lightbox.classList.remove("open");
+      document.body.style.overflow = "";
+    }
+
+    /* ===== 18. EVENT LISTENERS ===== */
+    /* Dropdown, close button, arrows, and keyboard controls */
+
+    filter.addEventListener("change", renderGallery);
+
+    document.getElementById("close").onclick = closeLightbox;
+    document.getElementById("prev").onclick = () => move(-1);
+    document.getElementById("next").onclick = () => move(1);
+
+    /* Click outside the image to close */
+    lightbox.addEventListener("click", e => {
+      if (e.target === lightbox) closeLightbox();
+    });
+
+    /* Keyboard: Esc closes; left/right arrows switch images */
+    document.addEventListener("keydown", e => {
+      if (!lightbox.classList.contains("open")) return;
+
+      if (e.key === "Escape") closeLightbox();
+      if (e.key === "ArrowLeft") move(-1);
+      if (e.key === "ArrowRight") move(1);
+    });
+
+    /* ===== 19. INITIALIZE ===== */
+    /* Generate the gallery when the page loads */
+    renderGallery();
+
+  </script>
+</body>
+</html>
+
