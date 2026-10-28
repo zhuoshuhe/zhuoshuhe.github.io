@@ -53,6 +53,18 @@ function renderNavigation(navItems) {
         listItem.appendChild(link);
         navbarItems.appendChild(listItem);
     });
+     
+    // Gallery: add a link to the separate gallery webpage
+    const galleryItem = document.createElement('li');
+    const galleryLink = document.createElement('a');
+
+    galleryItem.className = 'nav-item';
+    galleryLink.className = 'nav-link me-lg-3';
+    galleryLink.href = '/gallery/';
+    galleryLink.textContent = 'GALLERY';
+
+    galleryItem.appendChild(galleryLink);
+    navbarItems.appendChild(galleryItem);
 }
 
 function normalizeSections(sections) {
