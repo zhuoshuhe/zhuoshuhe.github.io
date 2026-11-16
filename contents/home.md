@@ -1,6 +1,6 @@
 
 
-He Zhuoshu is PhD candidate in Department of Architecture, College of Design and Engineering, National University of Singapore, where he served as PhD Representative of the department in 2023–2024. His research employs mixed methods to explore the complex relations between urban form, urban functions, and socioeconomic outcome. Zhuoshu seeks new perspectives and possibilities by critically examining the tensions and complexities underlying urban issues, while remaining reflective about prevailing concepts.
+He Zhuoshu is PhD candidate in Department of Architecture, College of Design and Engineering, National University of Singapore, where he served as PhD Representative of the department in 2023–2024. My research employs mixed methods to explore the complex relations between urban form, urban functions, and socioeconomic outcome. In research, I dialectically unpack the tensions and complexities underlying urban issues and seeks new perspectives and possibilities, while remaining reflective about prevailing theories and concepts.
 
 #### Research Interests
 
